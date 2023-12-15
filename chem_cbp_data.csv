@@ -1,55 +1,55 @@
-s.no,location,,Mg2+,Ca2+,hardness,indication
-1,aghapura,,35,38,239,very hard
-2,alwal,,23.8,79.5,296,very hard
-3,bagh lingampally,,47.5,70,370,very hard
-4,bahadurpura,,40.5,38,261,very hard
-5,bala nagar,,5,72,201,very hard
-6,bandlaguda,,30,60,273,very hard
-7,begumpet,,29.3,120,420,very hard
-8,bolarum bazar,,34,138,459,very hard
-9,bowenpally,,50,106,470,very hard
-10,chanchalguda,,25.7,118,400,very hard
-11,chevella,,62.1,90,480,very hard
-12,chilkur,,42.7,70,350,very hard
-13,chintal,,36.1,98,393,very hard
-14,east maredpally,,24,80,298,very hard
-15,erragadda,,32.9,58,280,very hard
-16,eramanzil,,26,38,202,very hard
-17,falaknama,,22.5,40.5,194,very hard
-18,gachibowli,,15,32,142,hard
-19,ghatkesar,,55.7,60.5,380,very hard
-20,gudimalkapur,,73.2,232,880,very hard
-21,gundlapochampalli,,34,56,279,very hard
-22,hayath nagar,,31.7,112,410,very hard
-23,jubilee hills,,5,82,226,very hard
-24,kothapur,,24.5,78,295,very hard
-25,kukatepally,,66.3,117.5,566,very hard
-26,kulsumpura,,15,64,222,very hard
-27,kundanbagh,,35.3,47,261,very hard
-28,langer houz,,56,103,487,very hard
-29,madhapur,,15.9,66,230,very hard
-30,mahboob college,,26,100,357,very hard
-31,mallepally,,19,24,138,hard
-32,mir alam tank,,5,32,181,very hard
-33,miyapur,,6.1,24,85,moderately hard
-34,moinabad,,54,64,381,very hard
-35,musheerabad,,32.5,74,318,very hard
-36,nagarjuna,,11.7,108,318,very hard
-37,nampally,,51,37,302,very hard
-38,osmania university,,39.1,190,635,very hard
-39,picket,,12.2,52,180,hard
-40,qutub shah,,21.3,30,162,hard
-41,qutubullapur ,,35.3,376,1009,very hard
-42,rajendra nagar,,41.5,122,475,very hard
-43,ramanthapur,,93,80,581,very hard
-44,saheb nagar,,75.8,168,728,very hard
-45,sayeedabad,,24,48,218,very hard
-46,secunderabad,,68,32,469,very hard
-47,serilingampally,,51.7,65,374,very hard
-48,shabad,,24,48,218,very hard
-49,shaikpet,,95.3,110,666,very hard
-50,shankarpalli,,51.6,89.3,435,very hard
-51,shanti nagar,,66.5,60,423,very hard
-52,shapur nagar,,136.5,296,1300,very hard
-53,trimugherry,,36.6,128,470,very hard
-54,vanasthalipuram,,71.8,86,509,very hard
+s.no,location,Mg2+,Ca2+,hardness,indication
+1,aghapura,35,38,239,very hard
+2,alwal,23.8,79.5,296,very hard
+3,bagh lingampally,47.5,70,370,very hard
+4,bahadurpura,40.5,38,261,very hard
+5,bala nagar,5,72,201,very hard
+6,bandlaguda,30,60,273,very hard
+7,begumpet,29.3,120,420,very hard
+8,bolarum bazar,34,138,459,very hard
+9,bowenpally,50,106,470,very hard
+10,chanchalguda,25.7,118,400,very hard
+11,chevella,62.1,90,480,very hard
+12,chilkur,42.7,70,350,very hard
+13,chintal,36.1,98,393,very hard
+14,east maredpally,24,80,298,very hard
+15,erragadda,32.9,58,280,very hard
+16,eramanzil,26,38,202,very hard
+17,falaknama,22.5,40.5,194,very hard
+18,gachibowli,15,32,142,hard
+19,ghatkesar,55.7,60.5,380,very hard
+20,gudimalkapur,73.2,232,880,very hard
+21,gundlapochampalli,34,56,279,very hard
+22,hayath nagar,31.7,112,410,very hard
+23,jubilee hills,5,82,226,very hard
+24,kothapur,24.5,78,295,very hard
+25,kukatepally,66.3,117.5,566,very hard
+26,kulsumpura,15,64,222,very hard
+27,kundanbagh,35.3,47,261,very hard
+28,langer houz,56,103,487,very hard
+29,madhapur,15.9,66,230,very hard
+30,mahboob college,26,100,357,very hard
+31,mallepally,19,24,138,hard
+32,mir alam tank,5,32,181,very hard
+33,miyapur,6.1,24,85,moderately hard
+34,moinabad,54,64,381,very hard
+35,musheerabad,32.5,74,318,very hard
+36,nagarjuna,11.7,108,318,very hard
+37,nampally,51,37,302,very hard
+38,osmania university,39.1,190,635,very hard
+39,picket,12.2,52,180,hard
+40,qutub shah,21.3,30,162,hard
+41,qutubullapur,35.3,376,1009,very hard
+42,rajendra nagar,41.5,122,475,very hard
+43,ramanthapur,93,80,581,very hard
+44,saheb nagar,75.8,168,728,very hard
+45,sayeedabad,24,48,218,very hard
+46,secunderabad,68,32,469,very hard
+47,serilingampally,51.7,65,374,very hard
+48,shabad,24,48,218,very hard
+49,shaikpet,95.3,110,666,very hard
+50,shankarpalli,51.6,89.3,435,very hard
+51,shanti nagar,66.5,60,423,very hard
+52,shapur nagar,136.5,296,1300,very hard
+53,trimugherry,36.6,128,470,very hard
+54,vanasthalipuram,71.8,86,509,very hard
